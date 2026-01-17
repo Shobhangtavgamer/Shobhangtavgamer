@@ -1,5 +1,7 @@
 # 💫 Hi 👋, I'm Shobhan Kar
 **Engineering student building real-world AI projects with code and curiosity || Kar Shobhan from India**
+# What I’m working on section
+**🔭 Currently building AI & Computer Vision based real-world applications**
 
 Email Me 👉 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dd3f786e-e508-4c30-92dd-73057ec1c0ef" />**karshobhan61@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 ## 🌐 Socials:
